@@ -1,0 +1,14 @@
+{
+  "servicingRootCauseAnalysisInstanceRecord" : {
+    "servicingActivityAnalysisResult" : "servicingActivityAnalysisResult",
+    "servicingActivityAnalysisType" : "servicingActivityAnalysisType",
+    "servicingActivityHistoryReport" : {},
+    "servicingActivityAnalysisRecommendation" : "servicingActivityAnalysisRecommendation",
+    "servicingActivityType" : "servicingActivityType",
+    "servicingActivityAnalysisPeriod" : "servicingActivityAnalysisPeriod",
+    "servicingActivityAnalysisDetermination" : "servicingActivityAnalysisDetermination"
+  },
+  "servicingRootCauseAnalysisUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "servicingRootCauseAnalysisUpdateActionTaskReference" : "SRCAUATR718086"
+}

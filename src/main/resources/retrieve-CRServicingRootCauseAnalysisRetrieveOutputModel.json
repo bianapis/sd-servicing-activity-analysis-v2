@@ -1,0 +1,24 @@
+{
+  "servicingRootCauseAnalysisRetrieveActionTaskReference" : "SRCARATR749460",
+  "servicingRootCauseAnalysisRetrieveActionTaskRecord" : {},
+  "servicingRootCauseAnalysisInstanceAnalysis" : {
+    "servicingRootCauseAnalysisInstanceAnalysisData" : "servicingRootCauseAnalysisInstanceAnalysisData",
+    "servicingRootCauseAnalysisInstanceAnalysisReport" : {},
+    "servicingRootCauseAnalysisInstanceAnalysisReportType" : "servicingRootCauseAnalysisInstanceAnalysisReportType"
+  },
+  "servicingRootCauseAnalysisInstanceRecord" : {
+    "servicingActivityAnalysisResult" : "servicingActivityAnalysisResult",
+    "servicingActivityAnalysisType" : "servicingActivityAnalysisType",
+    "servicingActivityHistoryReport" : {},
+    "servicingActivityAnalysisRecommendation" : "servicingActivityAnalysisRecommendation",
+    "servicingActivityType" : "servicingActivityType",
+    "servicingActivityAnalysisPeriod" : "servicingActivityAnalysisPeriod",
+    "servicingActivityAnalysisDetermination" : "servicingActivityAnalysisDetermination"
+  },
+  "servicingRootCauseAnalysisRetrieveActionResponse" : "servicingRootCauseAnalysisRetrieveActionResponse",
+  "servicingRootCauseAnalysisInstanceReportRecord" : {
+    "servicingRootCauseAnalysisInstanceReport" : {},
+    "servicingRootCauseAnalysisInstanceReportType" : "servicingRootCauseAnalysisInstanceReportType",
+    "servicingRootCauseAnalysisInstanceReportData" : "servicingRootCauseAnalysisInstanceReportData"
+  }
+}

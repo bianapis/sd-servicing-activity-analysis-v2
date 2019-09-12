@@ -1,0 +1,14 @@
+{
+  "executeRecordReference" : "ERR796450",
+  "executeResponseRecord" : {},
+  "servicingRootCauseAnalysisInstanceRecord" : {
+    "servicingActivityAnalysisResult" : "servicingActivityAnalysisResult",
+    "servicingActivityAnalysisType" : "servicingActivityAnalysisType",
+    "servicingActivityHistoryReport" : {},
+    "servicingActivityType" : "servicingActivityType",
+    "servicingActivityAnalysisPeriod" : "servicingActivityAnalysisPeriod",
+    "servicingActivityAnalysisDetermination" : "servicingActivityAnalysisDetermination"
+  },
+  "servicingRootCauseAnalysisExecuteActionTaskReference" : "SRCAEATR765409",
+  "servicingRootCauseAnalysisExecuteActionTaskRecord" : {}
+}

@@ -1,0 +1,32 @@
+{
+  "rootCauseAlgorithmInstanceAnalysis" : {
+    "rootCauseAlgorithmInstanceAnalysisParameters" : "rootCauseAlgorithmInstanceAnalysisParameters",
+    "rootCauseAlgorithmInstanceAnalysisRecord" : {},
+    "rootCauseAlgorithmInstanceAnalysisReportType" : "rootCauseAlgorithmInstanceAnalysisReportType",
+    "rootCauseAlgorithmInstanceAnalysisReport" : {}
+  },
+  "rootCauseAlgorithmInstanceRecord" : {
+    "servicingActivityRootCauseAnalysisWorkTaskType" : "servicingActivityRootCauseAnalysisWorkTaskType",
+    "servicingActivityRootCauseAnalysisWorkTaskResult" : "servicingActivityRootCauseAnalysisWorkTaskResult",
+    "servicingActivityRootCauseAlgorithmSpecification" : "servicingActivityRootCauseAlgorithmSpecification",
+    "servicingActivityRootCauseAnalysisWorkTaskWorkProducts" : "servicingActivityRootCauseAnalysisWorkTaskWorkProducts",
+    "servicingActivityRootCauseAnalysisWorkTask" : "servicingActivityRootCauseAnalysisWorkTask",
+    "servicingActivityRootCauseAnalysisWorkTaskDateTime" : "09-22-2018"
+  },
+  "rootCauseAlgorithmRetrieveActionTaskRecord" : {},
+  "rootCauseAlgorithmInstanceReport" : {
+    "rootCauseAlgorithmInstanceReportType" : "rootCauseAlgorithmInstanceReportType",
+    "rootCauseAlgorithmInstanceReport" : {},
+    "rootCauseAlgorithmInstanceReportRecord" : {},
+    "rootCauseAlgorithmInstanceReportParameters" : "rootCauseAlgorithmInstanceReportParameters"
+  },
+  "servicingRootCauseAnalysisInstanceRecord" : {
+    "servicingActivityAnalysisResult" : "servicingActivityAnalysisResult",
+    "servicingActivityAnalysisType" : "servicingActivityAnalysisType",
+    "servicingActivityHistoryReport" : {},
+    "servicingActivityType" : "servicingActivityType",
+    "servicingActivityAnalysisPeriod" : "servicingActivityAnalysisPeriod"
+  },
+  "rootCauseAlgorithmRetrieveActionTaskReference" : "SRCARATR773363",
+  "rootCauseAlgorithmRetrieveActionResponse" : "rootCauseAlgorithmRetrieveActionResponse"
+}
